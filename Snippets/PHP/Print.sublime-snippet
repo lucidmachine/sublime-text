@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+echo "<pre>"; print_r(\$$1); echo "</pre>";
+]]></content>
+    <tabTrigger>print</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Runs print_r() on some variable and dumps the output between pre tags.</description>
+</snippet>

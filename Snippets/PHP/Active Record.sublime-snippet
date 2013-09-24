@@ -6,13 +6,13 @@
         '$2'
     )
     -> from ('exp_$3')
-    -> where ("site_id", $this->EE->config->item('site_id'))
+    -> where ("site_id", \$this->EE->config->item('site_id'))
         -> where ("$4", \$$5)$6
     -> get() -> result_array();
 
 // No results?
 if (empty(\$$1))
-    throw new Exception("${7:No results found.}");
+    throw new Exception("No ${7:results} found.");
 ]]></content>
     <tabTrigger>ar</tabTrigger>
     <scope>source.html, source.php</scope>

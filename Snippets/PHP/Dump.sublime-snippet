@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+echo "<pre>"; var_dump(\$$1); echo "</pre>";
+]]></content>
+    <tabTrigger>dump</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Runs var_dump() on some variable and dumps the output between pre tags.</description>
+</snippet>

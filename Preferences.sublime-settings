@@ -102,7 +102,7 @@
         // Disables horizontal scrolling if enabled.
         // May be set to true, false, or "auto", where it will be disabled for
         // source code, and otherwise enabled.
-        "word_wrap": "auto",
+        "word_wrap": "false",
 
 
 /* *****

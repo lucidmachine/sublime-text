@@ -5,16 +5,6 @@
  * Files
  * *****/
 
-    /* Saving */
-
-        // Save via writing to an alternate file, and then renaming it over the
-        // original file.
-        "atomic_save": true,
-
-        // Set to true to automatically save files when switching to a different file
-        // or application
-        "save_on_focus_lost": false,
-
     /* Encoding */
 
         // Encoding used when saving new files, and files opened with an undefined
@@ -35,6 +25,16 @@
         // The encoding to use when the encoding can't be determined automatically.
         // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.
         "fallback_encoding": "Western (Windows 1252)",
+
+    /* Saving */
+
+        // Save via writing to an alternate file, and then renaming it over the
+        // original file.
+        "atomic_save": true,
+
+        // Set to true to automatically save files when switching to a different file
+        // or application
+        "save_on_focus_lost": false,
 
 
 /* **********
@@ -239,7 +239,6 @@
 
         // Controls side bar animation when expanding or collapsing folders
         "tree_animation_enabled": true,
-
 
     /* Folds */
 

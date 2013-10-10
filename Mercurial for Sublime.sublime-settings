@@ -1,0 +1,32 @@
+{
+/* ****************
+ * Basics / Globals
+ * ****************/
+
+    // Path to the mercurial binary.
+    "bin": "hg",
+
+
+/* *****
+ * Diffs
+ * *****/
+    // Defines whether to show whitespaces on diff or ignore them.
+    // true = show them, false = ignore them.
+    "show_whitespace_on_diff" : true,
+
+
+/* **********
+ * Status Bar
+ * **********/
+    // Defines whether to show the current active Branch in status bar or not.
+    // true = show branch, false = show not
+    "show_status_branch" : true,
+
+    // Defines whether to show the current active Changeset in status bar or not.
+    // true = show branch, false = show not
+    "show_status_changeset" : true,
+
+    // Defines whether to show the current active Tag in status bar or not.
+    // true = show branch, false = show not
+    "show_status_tag" : true
+}

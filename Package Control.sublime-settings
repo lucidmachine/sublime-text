@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Emmet",
 		"ExpressionEngine",
 		"Mercurial for Sublime",
 		"SublimeGit"

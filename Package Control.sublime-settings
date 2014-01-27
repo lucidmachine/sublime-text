@@ -1,8 +1,11 @@
 {
 	"installed_packages":
 	[
+		"DocBlockr",
 		"Emmet",
 		"ExpressionEngine",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Mercurial for Sublime",
 		"SublimeGit"
 	]

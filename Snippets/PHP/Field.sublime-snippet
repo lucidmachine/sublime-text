@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+'${1}' => array(
+    'field' => '${1}',
+    'label' => '${2}',
+    'rules' => '${3:required}'
+),
+]]></content>
+    <tabTrigger>field</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

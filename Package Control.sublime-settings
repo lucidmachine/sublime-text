@@ -7,6 +7,9 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Mercurial for Sublime",
-		"SublimeGit"
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs"
 	]
 }

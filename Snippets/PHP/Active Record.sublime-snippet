@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 // Query
-\$${1:result} = \$this->EE->db
+\$${1:result} = get_instance()->db
     -> from ('exp_$2')
     -> where ('site_id', \$this->EE->config->item('site_id'))
         -> where ('$3', \$$4)$5

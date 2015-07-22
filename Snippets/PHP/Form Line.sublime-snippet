@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<p class="form-line"><label for="${1}">${2}</label><input type="${3:text}" id="${1}" name="${1}" value="<?=set_value('${1}')?>" /></p>
+]]></content>
+    <tabTrigger>formline</tabTrigger>
+    <scope>source.php, text.html, text.html.basic</scope>
+</snippet>

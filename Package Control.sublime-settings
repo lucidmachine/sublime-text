@@ -8,8 +8,13 @@
 		"MarkdownEditing",
 		"Mercurial for Sublime",
 		"SublimeGit",
+		"sublimelint",
 		"SublimeLinter",
+		"SublimeLinter-pep8",
 		"SublimeLinter-php",
-		"SublimeLinter-phpcs"
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-pylint",
+		"SummitLinter"
 	]
 }

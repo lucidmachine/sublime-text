@@ -1,0 +1,1179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Repos",
+				"RepositoryFactory"
+			],
+			[
+				"Re",
+				"Returns"
+			],
+			[
+				"Unlo",
+				"UnlockAllContentletsJob"
+			],
+			[
+				"exce",
+				"exception_counter"
+			],
+			[
+				"brick",
+				"brick_purchase_date"
+			],
+			[
+				"bricks",
+				"bricks_channel_id"
+			],
+			[
+				"number",
+				"numberOfValidElements"
+			],
+			[
+				"fetch",
+				"fetch_compartmentalized_channel_ids"
+			],
+			[
+				"compa",
+				"compartmentalized_channel_ids"
+			],
+			[
+				"compartmen",
+				"compartmentalized_channels"
+			],
+			[
+				"compartme",
+				"compartmentalized_channels"
+			],
+			[
+				"enable",
+				"enable_moxiemanager"
+			],
+			[
+				"ena",
+				"enable_moxiemanager"
+			],
+			[
+				"chann",
+				"channel_is_compartmentalized"
+			],
+			[
+				"fetch_site_",
+				"fetch_site_url"
+			],
+			[
+				"moxie",
+				"moxiemanager_folder"
+			],
+			[
+				"moxiema",
+				"moxiemanager"
+			],
+			[
+				"all_",
+				"all_products"
+			],
+			[
+				"require",
+				"requireRecaptchaResponse"
+			],
+			[
+				"defer",
+				"deferUntilRecaptchaFormLoaded"
+			],
+			[
+				"international",
+				"international-activities-countries"
+			],
+			[
+				"U",
+				"Url"
+			],
+			[
+				"Url",
+				"UrlTitleField"
+			],
+			[
+				"missingSe",
+				"missingSectionConfigPath"
+			],
+			[
+				"unread",
+				"unreadableConfigPath"
+			],
+			[
+				"requ",
+				"requiredSectionKeys"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"wron",
+				"wrongFileTypeConfigPath"
+			],
+			[
+				"unrea",
+				"unreadableConfigPath"
+			],
+			[
+				"test",
+				"testConfigPath"
+			],
+			[
+				"Digi",
+				"DigitalMeasures"
+			],
+			[
+				"tearD",
+				"tearDownTempFilesDir"
+			],
+			[
+				"replace",
+				"replaceConfigFile"
+			],
+			[
+				"tempF",
+				"tempFilesDirPath"
+			],
+			[
+				"defaul",
+				"defaultConfigFilePath"
+			],
+			[
+				"testCon",
+				"testConfigFilePath"
+			],
+			[
+				"copied",
+				"copiedTestConfigToDefault"
+			],
+			[
+				"Di",
+				"Digital_measures_api"
+			],
+			[
+				"Digital",
+				"Digital_measures_api"
+			],
+			[
+				"_re",
+				"_requestFactory"
+			],
+			[
+				"_hand",
+				"_handleHttpStatus"
+			],
+			[
+				"Configura",
+				"ConfigurationManager"
+			],
+			[
+				"Digita",
+				"Digital_measures_api"
+			],
+			[
+				"experts",
+				"experts_channel_id"
+			],
+			[
+				"msue",
+				"msue_site_id"
+			],
+			[
+				"category",
+				"category_entry_ids"
+			],
+			[
+				"pro",
+				"propertyfile"
+			],
+			[
+				"confi",
+				"confirmationMessage"
+			],
+			[
+				"CategoryIdsByGroup",
+				"CategoryIdsByGroupIdAndSiteId"
+			],
+			[
+				"cate",
+				"category_group"
+			],
+			[
+				"group",
+				"group_ids"
+			],
+			[
+				"Entry",
+				"EntryIdsByCategoryIdAndSiteId"
+			],
+			[
+				"entry",
+				"entry_ids"
+			],
+			[
+				"url",
+				"url_to_entry_key_map"
+			],
+			[
+				"analy",
+				"analytics_data"
+			],
+			[
+				"profile",
+				"profile_id"
+			],
+			[
+				"time",
+				"timePageLoad"
+			],
+			[
+				"all",
+				"all_products_product"
+			],
+			[
+				"ALL",
+				"ALL_PRODUCTS_API_ENDPOINT_URL"
+			],
+			[
+				"volusion",
+				"volusion_all_products"
+			],
+			[
+				"api",
+				"api_response"
+			],
+			[
+				"API",
+				"API_ENDPOINT_URL"
+			],
+			[
+				"CATALINA",
+				"CATALINA_BASE"
+			],
+			[
+				"CA",
+				"CATALINA_BASE"
+			],
+			[
+				"func_a",
+				"func_get_args"
+			],
+			[
+				"reply_",
+				"reply_to_name"
+			],
+			[
+				"fields",
+				"fields_array"
+			],
+			[
+				"recip",
+				"recipient_name"
+			],
+			[
+				"_email",
+				"_email_recipient_name"
+			],
+			[
+				"_email_re",
+				"_email_recipient_name"
+			],
+			[
+				"_",
+				"_email_recipient_address"
+			],
+			[
+				"reci",
+				"recipient_address"
+			],
+			[
+				"_email_reci",
+				"_email_recipient_address"
+			],
+			[
+				"_send",
+				"_email_sender_name"
+			],
+			[
+				"roles",
+				"roles_channel_id"
+			],
+			[
+				"gardening",
+				"gardening_hotline_topic_ids"
+			],
+			[
+				"garden",
+				"gardening_hotline_topic_ids"
+			],
+			[
+				"correc",
+				"correctedString"
+			],
+			[
+				"corre",
+				"correctValue"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"goog",
+				"googleSearchFormElement"
+			],
+			[
+				"goo",
+				"googleSearchFormElement"
+			],
+			[
+				"OptionCa",
+				"OptionCategory"
+			],
+			[
+				"Down",
+				"DownloadFile"
+			],
+			[
+				"format",
+				"number_format"
+			],
+			[
+				"produc",
+				"products_product"
+			],
+			[
+				"products",
+				"products_product"
+			],
+			[
+				"prod",
+				"products_product"
+			],
+			[
+				"all_prod",
+				"all_products_product"
+			],
+			[
+				"Produ",
+				"ProductDescription"
+			],
+			[
+				"hidden",
+				"hidden-quantity"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"hidde",
+				"hiddenQuantityElement"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"hi",
+				"hiddenQuantityElement"
+			],
+			[
+				"qua",
+				"quantityElement"
+			],
+			[
+				"w",
+				"wrapped_product"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Catego",
+				"CategoryIdByUrlTitle"
+			],
+			[
+				"end",
+				"end_of_buffer_contents"
+			],
+			[
+				"nav_end",
+				"nav_end_index"
+			],
+			[
+				"nav_be",
+				"nav_begin_index"
+			],
+			[
+				"nav_",
+				"nav_begin_index"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"htm",
+				"htmlentities"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"navigation",
+				"navigation_markup"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"navigaion",
+				"navigation_markup"
+			],
+			[
+				"archi",
+				"archive_full_path"
+			],
+			[
+				"ar",
+				"archive_full_path"
+			],
+			[
+				"archive",
+				"archive_path"
+			],
+			[
+				"insta",
+				"install_directory_path"
+			],
+			[
+				"data",
+				"database_types_with_database_names"
+			],
+			[
+				"database",
+				"database_name"
+			],
+			[
+				"set",
+				"set_database_credentials"
+			],
+			[
+				"uncomm",
+				"uncomment_database"
+			],
+			[
+				"dotcms",
+				"dotcms_context_relative_filepath"
+			],
+			[
+				"dotcms_",
+				"dotcms_context_filepath"
+			],
+			[
+				"conte",
+				"context_file_contents"
+			],
+			[
+				"server",
+				"server_manager"
+			],
+			[
+				"da",
+				"database_manager"
+			],
+			[
+				"powershe",
+				"powershell_command"
+			],
+			[
+				"power",
+				"powershell_command"
+			],
+			[
+				"install",
+				"install_directory_path"
+			],
+			[
+				"source",
+				"source_directory_path"
+			],
+			[
+				"dispat",
+				"dispatcher"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/A/dotcms_3.3.2/dotserver/tomcat-8.0.18/webapps/ROOT/assets/integrity/d384f3c3-5430-4dfe-b251-b63d3ce41a7f/ContentFileAssetsToFix.csv",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/templates/default/version_control.group"
+	],
+	"file_history":
+	[
+		"/X/Center for Regional Food Systems/includes/events-listing.vtl",
+		"/Z/templates/default/version_control.group/vcs/repositories.py",
+		"/Z/templates/default/version_control.group/get_untracked_changes.py",
+		"/C/Users/slenkeri/Desktop/untracked_changes.txt",
+		"/Z/templates/default/version_control.group/send_reminders.py",
+		"/Z/templates/default/version_control.group/repoaudit.py",
+		"/Z/templates/default/version_control.group/repos.txt",
+		"/Z/templates/default/version_control.group/.gitignore",
+		"/Z/templates/default/version_control.group/vcs/repoaudit.py",
+		"/Z/templates/default/version_control.group/repositories.py",
+		"/C/Users/slenkeri/AppData/Roaming/Sublime Text 3/Packages/User/version_control.group",
+		"/Z/templates/default/version_control.group/__init__.py",
+		"/C/Users/slenkeri/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Z/templates/default/version_control.group/dashboard.html",
+		"/Z/templates/default/version_control.group/README.md",
+		"/C/Users/slenkeri/Desktop/repoaudittest.csv",
+		"/Z/templates/default/version_control.group/repoaudit.csv",
+		"/C/Users/slenkeri/bin/unprotect_gitlab_repos.py",
+		"/C/Users/slenkeri/bin/translate_dotcms_category_names.py",
+		"/Z/sites/msue/templates/msue/topic.group/experts.html",
+		"/Z/sites/msue/templates/msue/experts.group/without_pictures.html",
+		"/Z/sites/msue/templates/msue/topic.group/events.html",
+		"/Z/sites/afre/templates/afre/projects.group/index.html",
+		"/Z/templates/default/sitewide.group/metadata_structure.html",
+		"/Z/sites/ipm/templates/ipm/search.group/.form.html",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/purge/PurgeLogger.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/upgrades/acc.upgrades.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/ldap_authentication/ext.ldap_authentication.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/ldap_authentication/config.ini",
+		"/C/Users/slenkeri/bin/gitlabify.sh",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/first_lvl/pi.first_lvl.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/first_lvl/.buildpath",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/css_loader/pi.css_loader.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/anr_bar/pi.anr_bar.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/anr_bar/index.html",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/anr_bar/views/anr_bar.html",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/acronymizer/pi.acronymizer.php",
+		"/V/dotcms_3.3.2/plugins/com.dotcms.config/README.md",
+		"/V/dotcms_3.3.2/plugins/com.dotcms.config/MANIFEST.MF",
+		"/V/dotcms_3.3.2/plugins/com.dotcms.config/conf/logging-ext.properties",
+		"/V/dotcms_3.3.2/plugins/com.dotcms.config/ROOT/dotserver/tomcat-8.0.18/webapps/ROOT/WEB-INF/log4j/log4j2.xml",
+		"/V/dotcms_3.3.2/plugins/com.dotcms.config/conf/web-ext.xml",
+		"/V/dotcms_3.3.2/dotserver/tomcat-8.0.18/webapps/ROOT/WEB-INF/log4j/log4j2.xml",
+		"/C/Users/slenkeri/src/dotcms/core/dependencies.gradle",
+		"/C/Users/slenkeri/src/dotcms/core/build.gradle",
+		"/C/Users/slenkeri/Desktop/unique_url_title.vtl",
+		"/C/Users/slenkeri/Desktop/snip.html",
+		"/C/Users/slenkeri/src/plugin-dotcms-timed-content-unlock/src/main/resources/plugin.properties",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/valid_elements.properties",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/tinymce/views/tinymce_config.js",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/bin/split_valid_elements.py",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/conf/input.txt",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/conf/output.txt",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/conf/split.py",
+		"/C/Users/slenkeri/Desktop/tinymce/ft.tinymce.php",
+		"/P/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/tinymce/config/compartmentalized_channels.php",
+		"/P/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/tinymce/ft.tinymce.php",
+		"/C/Users/slenkeri/Desktop/snippet.ps1",
+		"/C/Users/slenkeri/src/plugin-dotcms-timed-content-unlock/src/main/java/com/dotcms/job/OSGiPluginProperties.java",
+		"/C/Users/slenkeri/src/plugin-dotcms-timed-content-unlock/.gitignore",
+		"/C/Users/slenkeri/src/plugin-dotcms-timed-content-unlock/build.gradle",
+		"/C/Users/slenkeri/src/unlock-all-contentlets/src/main/java/com/dotmarketing/osgi/job/TestClass.java",
+		"/C/Users/slenkeri/src/unlock-all-contentlets/src/main/java/com/dotmarketing/osgi/job/CustomJob.java",
+		"/C/Users/slenkeri/src/unlock-all-contentlets/README.textile",
+		"/C/Users/slenkeri/src/plugin-dotcms-timed-content-unlock/src/main/java/com/dotcms/job/Activator.java",
+		"/C/Users/slenkeri/src/plugin-dotcms-timed-content-unlock/src/main/java/com/dotcms/job/UnlockContentTimer.java",
+		"/C/Users/slenkeri/src/plugin-dotcms-timed-content-unlock/README.md",
+		"/C/Users/slenkeri/Desktop/LogFiles/W3SVC65/u_ex160523.log",
+		"/C/Users/slenkeri/Desktop/varnishncsa log-20160524-excerpt.log",
+		"/C/Users/slenkeri/Desktop/PHP56_errors.log",
+		"/C/Users/slenkeri/Desktop/LogFiles/W3SVC73/u_ex160523.log",
+		"/C/Users/slenkeri/Desktop/LogFiles/W3SVC62/u_ex160523.log",
+		"/C/Users/slenkeri/Desktop/LogFiles/W3SVC3/u_ex160523.log",
+		"/C/Users/slenkeri/Desktop/LogFiles/W3SVC15/u_ex160523.log",
+		"/C/Users/slenkeri/Desktop/LogFiles/W3SVC30/u_ex160523.log",
+		"/Z/sites/hrt/templates/hrt/bricks.group/.search_form_view.html",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/codeigniter/system/libraries/Email.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/libraries/EE_Email.php",
+		"/Z/sites/hrt/templates/hrt/newsletter.group/.signup_form_view.html",
+		"/Z/sites/hrt/templates/hrt/newsletter.group/.signup_success_view.html",
+		"/Z/sites/hrt/templates/hrt/newsletter.group/.signup_failure_view.html",
+		"/Z/sites/hrt/templates/hrt/newsletter.group/index.html",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/MANIFEST.MF",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/build.xml",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/.gitignore",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/tiny_mce/youtube/youtube.htm",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/tiny_mce/youtube/js/youtube.js",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/tiny_mce/youtube/plugin.js",
+		"/V/dotcms_3.3.2/plugins/edu.msu.anr.tinymce/jsp/tiny_mce_config.jsp",
+		"/Z/sites/msue/templates/msue/experts.group/index.html",
+		"/Z/sites/msue/templates/msue/experts.group/home_county_coverage.html",
+		"/Z/sites/msue/templates/msue/experts.group/.profile_articles.html",
+		"/Z/sites/msue/templates/msue/experts.group/.search_form.html",
+		"/Z/sites/msue/templates/msue/experts.group/search.html",
+		"/Z/sites/msue/templates/msue/experts.group/ExpertsSearch.php",
+		"/Z/sites/msue/templates/msue/experts.group/expert_helper_functions.php",
+		"/Z/sites/hrt/templates/hrt/bricks.group/.search_results_view.html",
+		"/Z/sites/ipm/templates/ipm/insects.group/index.html",
+		"/Z/sites/ipm/templates/ipm/insects.group/insect.html",
+		"/Z/sites/agbioresearch/templates/agbioresearch/forms.group/.proposal_form_view.html",
+		"/Z/sites/hrt/templates/hrt/bricks.group/search.html",
+		"/Z/templates/default/departments.group/news_index.html",
+		"/Z/sites/hrt/templates/hrt/news.group/index.html",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/libraries/Template.php",
+		"/Z/sites/hrt/templates/hrt/bricks.group/BricksSearch.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/libraries/Functions.php",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/modules/search/mod.search.php",
+		"/Z/sites/hrt/templates/hrt/bricks.group/{!-- View for the list of search results.",
+		"/C/Users/slenkeri/.python-gitlab.cfg",
+		"/C/Program Files/Python 3.5/Scripts/gitlab-script.py",
+		"/C/Program Files/Python 3.5/Scripts/gitlab.exe",
+		"/C/Users/slenkeri/Desktop/normalize.py",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/mrelshp/ext.mrelshp.php",
+		"/Z/sites/hrt/templates/hrt/bricks.group/Brick.php",
+		"/C/Users/slenkeri/Desktop/exceptions.csv",
+		"/C/Users/slenkeri/Desktop/bricks-normalized.csv",
+		"/C/Users/slenkeri/Desktop/bricks-updated.csv",
+		"/P/tinymce/tiny_mce_src.js",
+		"/P/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/tinymce/ext.tinymce.php",
+		"/C/Users/slenkeri/Desktop/failures.txt",
+		"/Z/sites/hrt/templates/hrt/bricks.group/.import_form_view.html",
+		"/Z/sites/hrt/templates/hrt/bricks.group/delete.html",
+		"/V/dotcms_3.3.1/plugins/edu.msu.anr.tinymce/MANIFEST.MF",
+		"/V/dotcms_3.3.1/plugins/edu.msu.anr.tinymce/tiny_mce/youtube/youtube.htm",
+		"/Z/e5lZD7RR7Ioexq8pH79HZzSSEho5OQ/expressionengine/third_party/tinymce/views/valid_elements.js",
+		"/V/dotcms_3.3.1/plugins/edu.msu.anr.tinymce/jsp/tiny_mce_config.jsp",
+		"/V/dotcms_3.3.1/plugins/edu.msu.anr.tinymce/conf/plugin.properties",
+		"/V/dotcms_3.3.1/plugins/edu.msu.anr.tinymce/tiny_mce/youtube/plugin.min.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"Z:\\sites",
+			"",
+			"<open files>",
+			"",
+			"Z:\\tinymce-4.3.12\\plugins\\moxiemanager",
+			"Z:\\e5lZD7RR7Ioexq8pH79HZzSSEho5OQ",
+			"Z:\\",
+			"Z:\\tinymce-4.3.12\\plugins\\moxiemanager",
+			"Z:\\e5lZD7RR7Ioexq8pH79HZzSSEho5OQ\\codeigniter",
+			"Z:\\e5lZD7RR7Ioexq8pH79HZzSSEho5OQ",
+			"Z:\\e5lZD7RR7Ioexq8pH79HZzSSEho5OQ\\codeigniter\\system",
+			"Z:\\tinymce-4.3.12\\plugins\\moxiemanager",
+			"Z:\\sites,Z:\\templates",
+			"Z:\\e5lZD7RR7Ioexq8pH79HZzSSEho5OQ\\expressionengine\\third_party",
+			"",
+			"Z:\\\\sites",
+			"",
+			"-vendor/*",
+			"",
+			"V:\\dotcms_3.2.4\\dotserver\\tomcat-8.0.18\\webapps\\ROOT",
+			"",
+			"Z:\\sites",
+			"",
+			"/z/templates/default/anrcom.group/styles.css,/z/templates/default/ncrcrd.group/styles.css,/z/sites/ipm/templates/ipm/pages.group/styles.css,/z/sites/maeap/templates/maeap/pages.group/styles.css,/z/sites/msue/templates/msue/pages.group/styles.css",
+			"/z/sites/anrcom/templates/anrcom/pages.group/styles.css,/z/sites/ncrcrd/templates/ncrcrd/pages.group/styles.css,/z/sites/ipm/templates/ipm/pages.group/styles.css,/z/sites/maeap/templates/maeap/pages.group/styles.css,/z/sites/msue/templates/msue/pages.group/styles.css",
+			"/z/sites/anrcom/templates/anrcom/pages.group/styles.css /z/sites/ncrcrd/templates/ncrcrd/pages.group/styles.css /z/sites/ipm/templates/ipm/pages.group/styles.css /z/sites/maeap/templates/maeap/pages.group/styles.css /z/sites/msue/templates/msue/pages.group/styles.css",
+			"/z/sites/anrcom/templates/anrcom/pages.group/styles.css\n/z/sites/ncrcrd/templates/ncrcrd/pages.group/styles.css\n/z/sites/ipm/templates/ipm/pages.group/styles.css\n/z/sites/maeap/templates/maeap/pages.group/styles.css\n/z/sites/msue/templates/msue/pages.group/styles.css",
+			"Z:\\templates\\default,Z:\\sites",
+			"",
+			"C:\\dotcms\\dotserver\\tomcat-7.0.54\\logs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"added",
+			"raw_status_line",
+			"raw_status_line(^s)",
+			"(\\w+) =",
+			"self.(.+)",
+			" =.*$",
+			"']",
+			"repo_stats['",
+			"']",
+			"repo_stats['",
+			"events",
+			"experts",
+			"media",
+			";",
+			"var $ldap_",
+			"display",
+			"\"$",
+			"+\"",
+			"WYSIWYG_VALID_ELEMENTS\\d\\d?=",
+			"fetch_compart",
+			"23-May-2016 ",
+			" America/New_York",
+			"$",
+			"\" PHP",
+			"\\[(.*)\\]",
+			"24-May",
+			"\"",
+			" \"[A-Z]+ ",
+			" \"GET ",
+			" \"([A-Z]+) ",
+			"\\[",
+			" ]",
+			"-0400",
+			"^$\n",
+			"^#.*$",
+			"^$\n",
+			"^#.*$",
+			"anrcom/event_management",
+			"anrcom/portfolio",
+			"^$\n",
+			"^$",
+			"\n\n",
+			"^.*\\.cfm.*$",
+			"<?php require_once realpath(dirname(__FILE__).'/../../../files/sitewide/EmailForm/lib/EmailForm.php'); ?>\n<?php require_once realpath(dirname(__FILE__).'/../../../files/sitewide/EmailForm/lib/EmailForm.php'); ?>\n<?php require_once realpath(dirname(__FILE__).'/../../../files/sitewide/EmailForm/lib/EmailForm.php'); ?>\n<?php require_once realpath(dirname(__FILE__).'/../../../files/sitewide/EmailForm/lib/EmailForm.php'); ?>\n<?php require_once realpath(dirname(__FILE__).'/../../../files/sitewide/EmailForm/lib/EmailForm.php'); ?>",
+			"_body",
+			"home_county_name",
+			"echo",
+			"home_county",
+			"dump",
+			"\"%\"",
+			"LIKE %",
+			"first",
+			"_",
+			"brick_first_name",
+			"You did not submit a search term",
+			"result_page",
+			"results_page",
+			"result_page",
+			"first",
+			"echo",
+			"{|}",
+			"25",
+			"echo",
+			"{|}",
+			"\";",
+			"length",
+			"leng",
+			",",
+			"{|}",
+			"\\n",
+			"Bricks",
+			"brick_location",
+			"entry_id",
+			"column",
+			"(\\d) = ",
+			"?",
+			",",
+			"[^a-zA-Z0-9\\\\,]",
+			"-",
+			"[^0-9a-zA-z,\\\\]",
+			"/",
+			"[^a-zA-Z_0-9\\\\,]",
+			"[^a-zA-Z_0-9\\\\]",
+			"?",
+			"<",
+			"]",
+			"[",
+			"|",
+			"[^a-zA-Z_]",
+			"+",
+			"\"",
+			"\"\"",
+			":",
+			"\"",
+			"'",
+			"=",
+			"\\n",
+			"\"$",
+			"^\\s*\\+\"",
+			"=",
+			"link",
+			"moxiemanager_folder",
+			"format",
+			"log",
+			"master.log",
+			"log",
+			"getLogger",
+			"error_log",
+			"getLogger",
+			"debug",
+			"expeng",
+			"addbutton",
+			"Insert file",
+			"addButton",
+			"title",
+			"Spellcheck",
+			"uploads",
+			"this->extensions",
+			"require",
+			"CodeIgniterAuthenticator",
+			"Could not find registred authenticator instance for",
+			"Could not find registered authenticator instance",
+			"error_reporting",
+			"DEBUG",
+			" &[^&]",
+			" &",
+			"&",
+			"getConfig("
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"untracked",
+			"removed",
+			"modified",
+			"missing",
+			"line",
+			"'\\1' :",
+			"\\1 = self.\\1",
+			"",
+			"self.",
+			"",
+			"self.",
+			"",
+			"\"",
+			"\" \"PHP",
+			"\"\\1\"",
+			"",
+			" \\1 ",
+			"\\1",
+			"",
+			"\"%'\"",
+			"LIKE '%",
+			"last",
+			"-",
+			"brick-first-name",
+			"last",
+			"\n",
+			"",
+			"\n",
+			"",
+			"\\1=",
+			"\\u003f",
+			"\n",
+			"\\u002D",
+			"\\u002f",
+			"\\u003f",
+			"\\u003c",
+			"\\u005d",
+			"\\u005b",
+			"\\u007c",
+			"",
+			"\\\"",
+			"",
+			"rootpath",
+			"require_once",
+			"ExpressionEngineAuthenticator",
+			"<p><span class=\"text-label\">\\1</span>\n            <label",
+			"<p><span class=\"text-label\">\\1</label>\n            <label",
+			"no",
+			"class=\"datepicker\" placeholder=\"mm/dd/yyyy\">",
+			"$configManager",
+			"_name",
+			"filePath",
+			"config",
+			"markTestIncomplete",
+			"cache[$this->_url]",
+			"$this->_api->cache",
+			"$this->_cache",
+			"_cache",
+			"$this->curl",
+			"$this->_api->credentials",
+			"$request->curl",
+			"credentials",
+			"configFilePath",
+			"$dm",
+			"- \\1",
+			"",
+			"get_instance()",
+			"\n",
+			"s",
+			"\n",
+			"text",
+			"E:\\dotCMS\\dotcms_a.b.c",
+			"E:\\dotCMS\\dotcms_x.y.z",
+			"* \\1 - \\2",
+			"<dt>\\1</dt><dd>\\2</dd>",
+			"<fieldset id=\"metrics-\">\n    <label for=\"\\1\"></label><input type=\"checkbox\" name=\"\\1\" checked=\"checked\" />\n</fieldset>",
+			"\\n",
+			"rtrim",
+			"--request 'REFRESH'",
+			"$env:CATALINA_HOME",
+			"New-Alias \\1 \"\\2\"",
+			"New-Alias \\1 \\2",
+			"%CATALINA_OPTS%",
+			"C:\\tools\\apache-tomcat-8.0.23\\lib",
+			"college",
+			"reply_to",
+			"",
+			"func",
+			"'field' =>",
+			"field",
+			"<textarea \\1 rows=\"4\" cols=\"80\"><?",
+			"<textarea id=\"\\1\" name=\"\\2\"><?=set_value('\\3')?></textarea>",
+			"'name' =>",
+			"<textarea id=\"\\1\" name=\"\\2\"><?=set_value('\\1')?></textarea>",
+			"essay-leadership-highschool",
+			"college",
+			"no",
+			"            <input",
+			"scholarship-application-form",
+			"sender",
+			"rules",
+			"\"search-results",
+			"experts",
+			"var_dump",
+			"|",
+			"\\1| ",
+			"\\1 ",
+			"'\\1', ",
+			"<li>\\1</li>",
+			",",
+			"addChild",
+			"<?=$product->\\1?>",
+			"{if \\2}<li>\\1<span class=\"value\">{\\2}\\3{/if}",
+			"<li><span class=\"key\">\\1:</span> <span class=\"value\">\\2</span></li>",
+			"\\t\\t<dt>\\1</dt><dd></dd>",
+			"\\t<dt>\\1</dt><dd>{\\1}</dd>",
+			"dotcms",
+			"{your db password}",
+			"_fetch->CategoryNameByUrlTitle",
+			"_fetch->CategoryIdByUrlTitle",
+			"$this->_fetch->Field",
+			"",
+			"database_type",
+			"ensure_",
+			"scroll_depth_tracker",
+			"Scroll Depth Tracker",
+			"",
+			"fa-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/A/dotcms_3.3.2/dotserver/tomcat-8.0.18/webapps/ROOT/assets/integrity/d384f3c3-5430-4dfe-b251-b63d3ce41a7f/ContentFileAssetsToFix.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "version_control.group",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tiny_mce",
+				"dotserver\\docs\\examples\\plugins\\hello.world\\tiny_mce\\tiny_mce_config.jsp"
+			],
+			[
+				"dotmarketing-config.properties",
+				"dotserver\\src-conf\\dotmarketing-config.properties"
+			],
+			[
+				"portal.properties",
+				"dotserver\\dotCMS\\WEB-INF\\classes\\portal.properties"
+			],
+			[
+				"portal-ext",
+				"dotserver\\docs\\examples\\plugins\\hello.world\\conf\\portal-ext.properties"
+			],
+			[
+				"portal-ext.pro",
+				"dotserver\\dotCMS\\WEB-INF\\classes\\portal-ext.properties"
+			],
+			[
+				"dotmarketing",
+				"dotserver\\src-conf\\dotmarketing-config.properties"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

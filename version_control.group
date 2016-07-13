@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "Z:\\templates\\default\\version_control.group"
+		}
+	],
+    "SublimeLinter":
+    {
+        "@python": 3.5,
+        "linters":
+        {
+            "pep8":
+            {
+                "@disable": false
+            }
+        }
+    }
+}

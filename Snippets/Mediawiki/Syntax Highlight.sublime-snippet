@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<syntaxhighlight lang="${1:text}">${2}</syntaxhighlight>${3}
+]]></content>
+    <tabTrigger>sh</tabTrigger>
+    <scope>text.html.mediawiki, markup.raw.block.mediawiki</scope>
+</snippet>
